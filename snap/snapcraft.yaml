@@ -25,10 +25,6 @@ slots:
     bus: session
     name: org.gnome.Calendar
 
-hooks:
-  configure:
-    plugs: [ accounts-service ]
-
 apps:
   gnome-calendar:
     extensions: [gnome]
