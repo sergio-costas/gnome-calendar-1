@@ -1,5 +1,8 @@
 # GNOME Calendar
 
+*[![gnome-calendar](https://snapcraft.io/gnome-calendar/badge.svg)](https://snapcraft.io/gnome-calendar)
+[![gnome-calendar](https://snapcraft.io/gnome-caleldar/trending.svg?name=0)](https://snapcraft.io/gnome-calendar)*
+
 Below you will find some instructions to help you contribute to this snap. The general workflow will be to submit PRs from your fork onto the "stable" branch. Once the pull request has been *submitted*, there is a GitHub action that will automatically launch a build of the snap that you can use for testing. And then once the PR has been *merged* the GitHub action will launch a build on launchpad that will be automatically uploaded to the snap store, in the candidate channel, for more extensive testing.
 
 ## Known bugs
